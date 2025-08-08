@@ -1,6 +1,8 @@
 # VibeKernel - Jupyter Kernel for Hy
 
-A modern Jupyter kernel for the [Hy language](https://hylang.org/) - a Lisp dialect embedded in Python.
+A  Jupyter kernel for the [Hy language](https://hylang.org/) - a Lisp dialect embedded in Python.
+
+**Attention: this was generated from scratch by Claude Code based on very few interactions**, see full log at [full_claude_interaction.txt]. I've verified it works for simple programs across a few cells, **but haven't reviewed the code at all**.
 
 ## Features
 
