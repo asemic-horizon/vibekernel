@@ -6,12 +6,8 @@ A  Jupyter kernel for the [Hy language](https://hylang.org/) - a Lisp dialect em
 
 ## Features
 
-- Full Hy language support with Python interoperability
-- Code execution with proper output handling
-- Error reporting with clean tracebacks
-- Basic tab completion
-- Jupyter notebook integration
-
+- Hy 1.1.0 support
+- 
 ## Installation
 
 1. Install the package:
